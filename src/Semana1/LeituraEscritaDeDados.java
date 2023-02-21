@@ -4,7 +4,7 @@ package Semana1;
 
 import java.util.Scanner;
 
-public class Figura8_LeituraEscritaDeDados {
+public class LeituraEscritaDeDados {
 
     public static void main(String[] args) {
 

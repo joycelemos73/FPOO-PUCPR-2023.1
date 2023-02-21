@@ -4,7 +4,7 @@ package Semana2.ComandosDesvioRepeticao;
 
 import java.util.Scanner;
 
-public class Figura10_SwitchDesvioDependenteCondicao {
+public class SwitchDesvioDependenteCondicao {
 
     public static void main(String[] args) {
 

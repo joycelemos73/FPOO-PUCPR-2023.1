@@ -2,7 +2,7 @@ package Semana1;
 
 //Figura 7. Exemplo de código para declaração e atribuição.
 
-public class Figura7_DeclaracaoEAtribuicao {
+public class DeclaracaoEAtribuicao {
 
     public static void main(String[] args) {
 

@@ -3,10 +3,9 @@ package Semana2.ComandosDesvioRepeticao;
 //Exemplo de código de while e do-while para repetição dependente de condição (decisão)
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
-public class Figura11_WhileDoWhileRepeticaoDependenteCondicao {
+public class WhileDoWhileRepeticaoDependenteCondicao {
 
     public static void main(String[] args) {
 

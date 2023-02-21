@@ -4,7 +4,7 @@ package Semana2.ComandosDesvioRepeticao;
 
 import java.util.Scanner;
 
-public class Figura09_IfDesvioDependenteCondicao {
+public class IfDesvioDependenteCondicao {
 
     public static void main(String[] args) {
 

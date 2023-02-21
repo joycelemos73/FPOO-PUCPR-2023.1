@@ -2,7 +2,7 @@ package Semana2.ComandosDesvioRepeticao;
 
 //Exemplo de código com interrupção de repetição.
 
-public class Figura13_InterrupcaoRepeticao {
+public class InterrupcaoRepeticao {
 
     public static void main(String[] args) {
 

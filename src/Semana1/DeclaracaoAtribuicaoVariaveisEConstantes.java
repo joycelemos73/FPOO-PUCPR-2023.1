@@ -4,7 +4,7 @@ package Semana1;
 
 import java.util.Scanner;
 
-public class Figura6_DeclaracaoAtribuicaoVariaveisEConstantes {
+public class DeclaracaoAtribuicaoVariaveisEConstantes {
 
     public static void main(String[] args) {
 
